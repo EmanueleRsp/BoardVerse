@@ -2,6 +2,8 @@
 
 **BoardVerse** is a web-based platform developed as part of the _Large-Scale and Multi-Structured Databases_ course project (A.Y. 2024/2025). It aims to centralize and explore information about modern board games, integrating data from both **BoardGameGeek (BGG)** and **BoardGameArena (BGA)**.
 
+👉🏽 [Repository with original Scraping code](https://github.com/EmanueleRsp/BGG-BGA-Scraping) 
+
 ## 📌 Features
 
 - 🗂️ **Games Catalog**: Explore metadata of 2,000+ top-ranked board games.
@@ -32,6 +34,4 @@
 2. Set up MongoDB and Neo4j instances
 3. Run backend services (`/java-backend`)
 4. (Optional) Launch dataset generation scripts (`/data-scripts`)
-
-## 📁 Structure
 
