@@ -4,6 +4,8 @@
 
 👉🏽 [Repository with original Scraping code](https://github.com/EmanueleRsp/BGG-BGA-Scraping) 
 
+📄 [Documentation](documentation/Documentation.pdf)
+
 ## 📌 Features
 
 - 🗂️ **Games Catalog**: Explore metadata of 2,000+ top-ranked board games.
