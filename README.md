@@ -1,6 +1,6 @@
 # 🧩 BoardVerse
 
-**BoardVerse** is a web-based platform developed as part of the _Large-Scale and Multi-Structured Databases_ course project (A.Y. 2024/2025). It aims to centralize and explore information about modern board games, integrating data from both **BoardGameGeek (BGG)** and **BoardGameArena (BGA)**.
+**BoardVerse** is a platform developed as part of the _Large-Scale and Multi-Structured Databases_ course project (A.Y. 2024/2025). It aims to centralize and explore information about modern board games, integrating data from both **BoardGameGeek (BGG)** and **BoardGameArena (BGA)**.
 
 👉🏽 [Repository with original Scraping code](https://github.com/EmanueleRsp/BGG-BGA-Scraping) 
 
